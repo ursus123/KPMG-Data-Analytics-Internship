@@ -1,6 +1,6 @@
 # KPMG Data Analytics Internship
 
-In this project I used K-Means clustering, RFM Metrics and Cohort Analysis for customer segmentation to find loyal customers for a Bicycle Company
+In this project I used K-Means clustering, RFM Metrics and Cohort Analysis for customer segmentation to find loyal customers for a Bicycle Company.
 In this internship I was tasked with 3 tasks:
 - Data Assessment
 - Data Modeling
