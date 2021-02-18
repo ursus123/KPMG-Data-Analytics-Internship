@@ -22,6 +22,7 @@ common characteristics of different segments and find loyal customers
 
 ## Data Insights
 Later we were tasked to build a Tableau dashboard to present to the client.
+(https://public.tableau.com/profile/muhoza#!/vizhome/SprocketCentralcustomerDashboard/Dashboard1?publish=yes)
 
 # Pre-Requisites:
 - Jupyter NoteBook (https://jupyter.org/)
